@@ -1,2 +1,2 @@
 # prvocisla
-Počítanie prvočísel z určeného intervalu, NetBeans with GUI
+Hľadanie prvočísel v zadanom intervale, NetBeans project with GUI
