@@ -74,9 +74,6 @@ public class JPrvocisla extends javax.swing.JFrame {
             dolnaB = 0;
             hornaB = 0;
 
-            System.out.println("dolnaA:" + dolnaA + " až hornaA:" + hornaA);
-            System.out.println("dolnaB:" + dolnaB + " až  hornaB:" + hornaB);
-
         } else {
 
             dolnaA = dolnaHranicaIntervalu;
@@ -88,10 +85,6 @@ public class JPrvocisla extends javax.swing.JFrame {
             dolnaB = hornaA + 1;
 
             hornaB = hornaHranicaIntervalu;
-
-            System.out.println("dolnaA:" + dolnaA + " až hornaA:" + hornaA);
-
-            System.out.println("dolnaB:" + dolnaB + " až  hornaB:" + hornaB);
 
         }
 
